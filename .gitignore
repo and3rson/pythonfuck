@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Compiled stuff
+*.bin
+*.o
+*.as
+*.asm
